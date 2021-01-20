@@ -1,0 +1,10 @@
+{
+    "name": "test/test",
+    "description": "testing psalm with kint",
+    "require": {
+        "kint-php/kint": "^3.3"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^4.4"
+    }
+}
